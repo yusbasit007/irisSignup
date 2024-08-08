@@ -1,0 +1,10 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+
+body{
+    background-color: linear-gradient(90deg, #b37baa 60%,#1a1e3b );
+}
+
